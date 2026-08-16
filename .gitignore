@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# PyInstaller
+#  Often contains the executable, libraries, and temp files
+dist/
+build/
+*.spec
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Releases and archives
+SpriteStitcher-Release.zip
+SpriteStitcher.zip
+
+# Logs and caches
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Local config (do not track user's home config)
+.sprite_stitcher_config.json
+
+# Other
+.idea/
+*.swp
